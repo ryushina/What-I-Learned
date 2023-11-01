@@ -15,3 +15,21 @@ Restrict git log by date
 ``````
 git log --since='Apr 2 2022'
 ``````
+
+### Restoring an old version of a file
+git checkout --filename
+- To revert to a version from a specific commit:
+``````
+git checkout dc9d8fac mental_health_survey.csv
+``````
+- For second to the last commit
+``````
+git checkout HEAD~1 mental_health_survey.csv
+``````
+### Restoring a repo to a previous state
+``````
+git checkout dc9d8fac
+``````
+- Alternatively
+``````
+git checkout HEAD~1
