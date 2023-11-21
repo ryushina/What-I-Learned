@@ -29,3 +29,16 @@
 
 ### MERKLE Schema Generator
 #### last part
+
+## Topic Cluster Strategy - 
+#### A topic cluster strategy is a content organization method that groups related web pages around a central theme or topic. This approach aims to establish a website's authority on a particular subject by providing a comprehensive resource for users and search engines alike.
+
+## Press Request Alert Services
+##### HARO 
+##### Source Bottle 
+##### NARO PR
+##### Journo Request
+
+## TO MONITOR RESULTS
+#### Use Google Search Console to check your search performance and rank for a keyword or a page
+#### Use Google Analytics to track organic traffic to a page
